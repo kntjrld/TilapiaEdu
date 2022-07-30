@@ -623,8 +623,8 @@ footer .media-box .media {
 }
 
 #preloader {
-    /* background: #fff url(preloader.gif) no-repeat center center; */
-    background-color: aqua;
+    background: #fff url(images/preloader.gif) no-repeat center center;
+    /* background-color: aqua; */
     background-size: 30%;
     height: 100vh;
     width: 100%;
